@@ -22,7 +22,7 @@ The primary source of data used here is Data Sale.csv and this is an open source
         1. Data Manioulation
         2. Data Munching  
 - SQL Server (For Querying and Analysis)
-- Power BI (For creating report)
+- Power BI [Download]([For creating report](https://www.microsoft.com/en-us/download/details.aspx?id=58494))
 - Ms Power Point (for Presentation)
 
 ### Data Cleaning and Preparation
@@ -46,6 +46,11 @@ This where we include some basic items of code or queries or even some of the DA
 ``` SQL 
 SELECT A,B,C
 WHERE A> 15
+
+### Analysis
+
+
+
 
 ```
 
